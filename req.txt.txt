@@ -1,0 +1,5 @@
+python
+django 
+pillow
+rezorpay
+mysqlclient
